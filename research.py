@@ -8,7 +8,7 @@ st.title("Researcher Profile Page")
 # Collect basic information
 name = "Mr Siphesihle P Mkhize"
 field = "Information Technology"
-institution = "Durban University of Technology"
+institution = "Durban University of Technology(DUT)"
 
 # Display basic profile information
 st.header("Researcher Overview")
